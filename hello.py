@@ -7,5 +7,8 @@ print("test2, Hi!!")
 
 
 print("Hello, Jun")
+print("test2")
 print("task8")
 print("task9")
+
+
